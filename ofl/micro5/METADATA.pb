@@ -21,3 +21,5 @@ source {
   repository_url: "https://github.com/scfried/soft-type-micro"
   commit: "b642aae8b850ae551a93623e3c116866de402879"
 }
+classification: "DISPLAY"
+stroke: "SANS_SERIF"
